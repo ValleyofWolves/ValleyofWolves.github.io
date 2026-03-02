@@ -15,9 +15,9 @@ let charadex = {};
 /* Any preview links will still show Charadex's information
 /* ==================================================================== */
 charadex.site = {
-  title: "Charadex",
-  url: "https://charadex-team.github.io/charadex-v1.0/",
-  description: `A tool for organizing small ARPGs and species.`
+  title: "Valley of Wolves",
+  url: "https://valleyofwolves.github.io/wolves/",
+  description: `A wolf ARPG.`
 }
 
 /* ==================================================================== */
@@ -26,7 +26,7 @@ charadex.site = {
 /* ==================================================================== */
 charadex.sheet = {
 
-  id: "1GwgfLizD3HQCieGia6di-TfU4E3EipT9Jb0BDZQwNak",
+  id: "1xNLecrxn4Zvf8msV6iyrWmb2BK31QgVKVFuPONXUOO4",
 
   pages: {
     masterlist:    "masterlist",
