@@ -16,7 +16,7 @@ let charadex = {};
 /* ==================================================================== */
 charadex.site = {
   title: "Valley of Wolves",
-  url: "https://valleyofwolves.github.io/wolves/",
+  url: "https://valleyofwolves.github.io/index.html",
   description: `A wolf ARPG.`
 }
 
